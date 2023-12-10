@@ -13,9 +13,9 @@ self.__uv$config = {
     bare: [
         // Not Using a backend? Use this instead of the array below:
         "https://server.flow-works.me/bare/"
-        "/bare1/",
-        "/bare2/",
-        "/bare3/",
+        //"/bare1/",
+        //"/bare2/",
+        //"/bare3/",
     ],
 
     /**
